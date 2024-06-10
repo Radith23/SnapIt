@@ -18,3 +18,17 @@ Users can also add special widgets to view other people's stories with easier an
 ### Infinite Scrolling
 The app employs Paging 3 and Remote Mediator to offer an infinite scrolling experience. Data is stored in a Room database, ensuring smooth and efficient access to stories even when offline.
 ## Screenshots
+<p align="left">
+  <img width="200" height="430" src="splash.png">
+  <img width="200" height="430" src="landingpage.png">
+  <img width="200" height="430" src="register.png">
+  <img width="200" height="430" src="login.png">
+  <img width="200" height="430" src="main.png">
+  <img width="200" height="430" src="add.png">
+  <img width="200" height="430" src="add-fill.png">
+  <img width="200" height="430" src="upload.png">
+  <img width="200" height="430" src="detail.png">
+  <img width="200" height="430" src="maps.png">
+  <img width="200" height="430" src="profile.png">
+  <img width="200" height="430" src="localization.png">
+</p>
