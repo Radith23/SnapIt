@@ -23,10 +23,12 @@ The app employs Paging 3 and Remote Mediator to offer an infinite scrolling expe
   <img width="200" height="430" src="landingpage.png">
   <img width="200" height="430" src="register.png">
   <img width="200" height="430" src="login.png">
+  <br><br>
   <img width="200" height="430" src="main.png">
   <img width="200" height="430" src="add.png">
   <img width="200" height="430" src="add-fill.png">
   <img width="200" height="430" src="upload.png">
+  <br><br>
   <img width="200" height="430" src="detail.png">
   <img width="200" height="430" src="maps.png">
   <img width="200" height="430" src="profile.png">
